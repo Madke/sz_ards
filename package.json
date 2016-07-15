@@ -1,0 +1,15 @@
+{
+  "name": "sz_ards",
+  "version": "0.0.1",
+  "description": "A road distance based search for Hack Weekend (demo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphsearch",
+    "Stayzilla"
+  ],
+  "author": "hack15",
+  "license": "ISC"
+}
