@@ -10,7 +10,7 @@ var query = aql.query;
 var bindVars = aql.bindVars;
 //var db = arangojs()();
 
-var graph = db.graph('ards11');
+var graph = db.graph('ards10');
 
 /*graph.create({
     edgeDefinitions: [
